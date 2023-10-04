@@ -54,9 +54,9 @@
 			isa = PBXGroup;
 			children = (
 				92BCD50B29638DED004F0AFB /* WordCodeApp.swift */,
-				92BCD51929638E4A004F0AFB /* start.txt */,
 				92BCD50D29638DED004F0AFB /* ContentView.swift */,
 				92BCD50F29638DEF004F0AFB /* Assets.xcassets */,
+				92BCD51929638E4A004F0AFB /* start.txt */,
 				92BCD51129638DEF004F0AFB /* Preview Content */,
 			);
 			path = WordCode;
